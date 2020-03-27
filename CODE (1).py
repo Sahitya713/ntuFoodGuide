@@ -8,6 +8,7 @@ import os
 import sys
 import pickle
 from utilities import *
+import pygame
 
 maroon = '#ab2440'
 purple ='#2f1e30'
