@@ -1,5 +1,6 @@
 # NTU FOOD GUIDE
 This Tkinter based GUI application allows the user to: 
+
 	1. Choose a stall within NTU by canteen, stall name or dish name
 	2. Select current location from an NTU map and sort canteens by distance
 	3. Get directions to a canteen of their choice (nearest bus stop and fastest campus bus to get there)
